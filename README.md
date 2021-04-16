@@ -1,4 +1,4 @@
-# 👋 현지 깃허브 👋
+# 반갑습니다! 저의 깃허브를 소개합니다😄
 <p align="right"> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunji-P%2FHyunji-P%2Fedit%2Fmain%2FREADME.md&count_bg=%23EE9DBE&title_bg=%23AF15A4&icon=&icon_color=%23E7E7E7&title=%ED%95%98%EB%A3%A8+%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false"/></a>
 </p> 
