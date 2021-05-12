@@ -1,6 +1,3 @@
-# 집요하게 파고드는 개발자, 박현지입니다.
-
-## 💁🏻‍♀️ About Me 
 ## 👩🏻‍💻 토이프로젝트
 1. *가상계좌 입금내역 확인 서비스* <br> https://github.com/Hyunji-P/2020.09-2021.03_portfolio/tree/portfolio/1st_virtualaccount_project
 2. *스터디 카페 예약 웹 프로젝트 '그...스터디 카페'* <br> https://github.com/Hyunji-P/2020.09-2021.03_portfolio/tree/portfolio/2nd_studycafe_project
