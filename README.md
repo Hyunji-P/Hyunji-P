@@ -1,3 +1,7 @@
+# 집요하게 파고드는 개발자, 박현지입니다.
+
+## 💁🏻‍♀️ About Me 
+
 ## 👩‍👧‍👦 Team Projects
 ### 1. 스터디 카페 예약 홈페이지 
 👉🏻 https://github.com/Hyunji-P/2020.09-2021.03_portfolio/tree/portfolio/2nd_studycafe_project
